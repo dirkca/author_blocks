@@ -1,8 +1,6 @@
 # AuthorBlocks #
 
-TODO Describe the plugin shortly here.
-
-TODO Provide more detailed description here.
+Formatting complex yet robust layout using the build in editors in Moodle can be challenging. The AuthorBlocks block provides those users with teacher role in Moodle an easy way to preview and then copy and paste Bootstrap based code snippets. In addition to providing common layout examples, it also provides Apple iBook Creator inspired templates for title page, section page, chapter page and simple page.
 
 ## License ##
 
